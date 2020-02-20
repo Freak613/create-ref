@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Freak613/useful-selectors.git"
+    "url": "git+https://github.com/Freak613/create-ref.git"
   },
   "author": "Pavel Martynov <martynov.pl@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/Freak613/useful-selectors#readme",
+  "homepage": "https://github.com/Freak613/create-ref#readme",
   "dependencies": {
     "@babel/core": "^7.5.4",
     "@babel/preset-env": "^7.5.4",
