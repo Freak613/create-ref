@@ -1,5 +1,5 @@
 {
-  "name": "create-ref",
+  "name": "create-ref-value",
   "version": "0.0.1",
   "description": "Atomic entity for managing local variables in immutable style",
   "source": "index.js",
