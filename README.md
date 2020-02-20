@@ -5,7 +5,7 @@ Atomic entity for managing local variables in immutable style
 ## Install
 
 ```bash
-npm install create-ref
+npm install create-ref-value
 ```
 
 ## createRef
