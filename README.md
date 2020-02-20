@@ -1,6 +1,12 @@
-# useful-selectors
+# create-ref
 
 Atomic entity for managing local variables in immutable style
+
+## Install
+
+```bash
+npm install create-ref
+```
 
 ## createRef
 
