@@ -11,7 +11,7 @@ npm install create-ref-value
 ## createRef
 
 ```javascript
-import createRef from "create-ref";
+import createRef from "create-ref-value";
 
 const val = createRef(0);
 val.get(); // 0
